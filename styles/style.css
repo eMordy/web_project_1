@@ -21,7 +21,7 @@
     position: relative;
     overflow: hidden;
     align-items: center;
-      padding-left: 64px;
+    left: 64px;
 
 }
 .logo__place_header {
@@ -46,7 +46,7 @@ margin-left: 64px;
 .header__subtitle {
     position: absolute;
     bottom: 30px;
-    margin-left: 64px;
+    left: 64px;
     width: 388px;
     line-height: 25px;
     font-size: 18px;
@@ -102,7 +102,7 @@ margin-left: 64px;
     font-size: 18px; 
     font-weight: normal; 
     color: #2F80ED;
-    margin-top: 0px;
+    margin-top: 30px;
 }
 
 
@@ -115,8 +115,8 @@ margin-left: 64px;
 }
 
 .two-columns__paragraph {
-    margin-bottom: 30px;
-    margin-top: 0;
+    margin: 30px;
+    
    
 }
 
@@ -337,7 +337,7 @@ font-weight: normal;
     
 }
 
-.footer__column-link {
+.footer__link {
     text-decoration: none;
     color: gray;
     line-height: 30px;
