@@ -1,0 +1,6 @@
+.table__theme_dark {
+    margin-bottom: 90px;
+    color: white;
+    list-style: none;
+    z-index: 2;
+}
