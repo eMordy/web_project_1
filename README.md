@@ -19,6 +19,7 @@ a CSS file. Some have inside internal folders with more properties and modifiers
 Eventually *index.css* file is created to connect and import all of the styles so the codesheet looks more neat. 
 
 *This is the finished project that combines both first and second sprints' assignments. hence the name web_project_1*
+
 [Link to the project](https://emordy.github.io/web_project_1/) 
 
 
