@@ -20,7 +20,6 @@ Eventually *index.css* file is created to connect and import all of the styles s
 
 *This is the finished project that combines both first and second sprints' assignments. hence the name web_project_1*
 
-[Link to the project](https://emordy.github.io/web_project_1/) 
 
 
 
